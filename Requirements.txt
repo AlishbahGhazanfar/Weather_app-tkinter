@@ -1,0 +1,5 @@
+## Requirements
+
+- Python 3.x
+- Tkinter (usually comes pre-installed with Python)
+- SQLite3 (usually comes pre-installed with Python)
