@@ -3,9 +3,7 @@
 This is a simple weather data application built using Python and Tkinter. The application allows users to input weather data, display the data in a text area, and export the data to a text file.
 
 <p align="center">
-  <https://github.com/AlishbahGhazanfar/Weather_app-tkinter/blob/assets/171797920/448f51cb-3fb7-4278-8a42-3b4034da136a/image">
 ![image](https://github.com/AlishbahGhazanfar/Weather_app-tkinter/assets/171797920/6894cae8-b192-420e-bd60-340670196fff)
-
 </p>
 
 
